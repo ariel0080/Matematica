@@ -1,2 +1,2 @@
-# Matematica
+# Matemática
 Tecnicatura Programación - Matemática
